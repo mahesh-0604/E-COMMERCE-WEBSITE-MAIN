@@ -64,5 +64,5 @@ We welcome contributions from the community. Please fork the repository, make yo
 
 This project is licensed under the MIT License.
 
-Feel free to customize this example to fit the specifics of your e-commerce website. Let me know if you need further assistance or have any other questions!
+
 
